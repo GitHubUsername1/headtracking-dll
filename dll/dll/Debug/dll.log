@@ -1,0 +1,3 @@
+﻿  Source.cpp
+g:\projects\0 dll\dll\source.cpp(33): warning C4244: 'argument': conversion from 'double' to 'ovrBool', possible loss of data
+  dll.vcxproj -> G:\Projects\0 dll\Debug\dll.dll

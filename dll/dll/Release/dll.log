@@ -1,0 +1,8 @@
+﻿  ovr6dof.cpp
+  Source.cpp
+Source.cpp(33): warning C4244: 'argument': conversion from 'double' to 'ovrBool', possible loss of data
+     Creating library G:\Projects\0 dll\Release\dll.lib and object G:\Projects\0 dll\Release\dll.exp
+  Generating code
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  dll.vcxproj -> G:\Projects\0 dll\Release\dll.dll
